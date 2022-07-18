@@ -1,2 +1,2 @@
-# Group Project for CISC 3667
+# Group Project
 An educational game that teaches data sorts
